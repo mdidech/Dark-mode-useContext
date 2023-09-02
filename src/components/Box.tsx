@@ -1,4 +1,4 @@
-import {ThemeContext} from './ThemeContext';
+import {ThemeContext} from './context/ThemeContext';
 import { useContext, useState } from 'react';
 import "./box.css";
 
